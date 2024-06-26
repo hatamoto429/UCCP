@@ -1,12 +1,12 @@
 # Ignore the intermediate and saved folders
-Intermediate/
-Saved/
+Intermediate/*
+Saved/*
 
 # Ignore binary files
-Binaries/
+Binaries/*
 
 # Ignore build files
-Build/
+Build/*
 
 # Ignore .vs directory
 .vs/
