@@ -1,0 +1,40 @@
+# Ignore the intermediate and saved folders
+Intermediate/
+Saved/
+
+# Ignore binary files
+Binaries/
+
+# Ignore build files
+Build/
+
+# Ignore .vs directory
+.vs/
+
+# Ignore user-specific files
+*.suo
+*.user
+*.userosscache
+*.sln
+*.VC.db
+*.VC.opendb
+
+# Ignore specific extensions
+*.log
+*.tlog
+*.obj
+*.pdb
+*.idb
+*.ipch
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.suo
+*.ipdb
+*.iobj
+*.lldb
+
+# Ignore other common Unreal Engine files
+DerivedDataCache/
